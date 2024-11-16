@@ -1,4 +1,4 @@
 # cubo magico-CSS
 Animated Cube with Cursor
-![Preview]()
+![Preview](https://github.com/eldoJr/cubo-magico-CSS/blob/main/preview.png)
  
